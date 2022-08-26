@@ -4,7 +4,11 @@ Heya Folks, it's Zee
 Humane/Ethical Technologist in Training. 
 ---------------------------------------------------------------------------------------------------------------------------
 ◾️ 7+ years experience:  Project Management, Learning & Development, Research, Community organizing, Digital + In-person Program Designing.
+
+
 ◾️ 9 to 5 - Program Designer, Researcher @ non-profit organisation
+
+
 ◾️ 5 to 9 - Code and Digital Ethics Learner
 
 ---------------------------------------------------------------------------------------------------------------------------
