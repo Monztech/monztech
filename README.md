@@ -6,7 +6,7 @@ Ethical designer in training
 
 Humane/Ethical Technologist in Training.
 Focused on creating healthy digital public spaces. 
-7+ years experiences Project management, Research, Community organizing, Ditigal + In-person program designing.
+7+ years experience >  Project management, Learning & Development, Research, Community organizing, Digital + In-person program designing.
 9 to 5 - Program Designer, Researcher @ non-profit organisation
 5 to 9 - Code and Digital Ethics Learner
 Freelance Writer, Speaker & Host on LGBTQ+ and Neurodiversity inclusion
