@@ -3,18 +3,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Humane/Ethical Technologist in Training. 
 ---------------------------------------------------------------------------------------------------------------------------
-7+ years experience:  Project Management, Learning & Development, Research, Community organizing, Digital + In-person Program Designing.
-
+◾️7+ years experience:  Project Management, Learning & Development, Research, Community organizing, Digital + In-person Program Designing.
 ◾️ 9 to 5 - Program Designer, Researcher @ non-profit organisation
+◾️ 5 to 9 - Code and Digital Ethics Learner
 
-5 to 9 - Code and Digital Ethics Learner
+◽️ Freelance Writer, Speaker & Host on LGBTQ+ and Neurodiversity inclusion
 
-Freelance Writer, Speaker & Host on LGBTQ+ and Neurodiversity inclusion
-
-
+---------------------------------------------------------------------------------------------------------------------------------------
 BA: Social Work - Cultural and Social Education 
 MA: Cultural and Critical Studies
-
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [monzeemay@gmail.com](mailto:monzeemay@gmail.com)
