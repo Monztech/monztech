@@ -4,14 +4,21 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Ethical designer in training
 ----------------------------
 
-Humane/Ethical Technologist in Training. Focused on creating healthy digital public spaces. BA: Social Work - Cultural and Social Education MA: Cultural and Critical Studies. 9 to 5 - Program Designer, Researcher 5 to 9 - Learning Code & Digital Ethics - Writer & Host
+Humane/Ethical Technologist in Training.
+Focused on creating healthy digital public spaces. 
+BA: Social Work - Cultural and Social Education 
+MA: Cultural and Critical Studies.
+7+ years experiences project management, Research, community organizing, ditigal and in-person program designing.
+9 to 5 - Program Designer, Researcher
+5 to 9 - Code and Digital Ethics Learner 
+Sometimes: Writer, Speaker & Host
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [monzeemay@gmail.com](mailto:monzeemay@gmail.com)
 * 🧠  I'm learning Python, UX , Ethereum
 * ⚡  www.AlignedPurpose.co
 
-### Skills
+Skills
 
 <p align="left">
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
