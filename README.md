@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Ethical designer in training
 ----------------------------
 
-Human/Ethical Technologist in Training. Focused on creating healthy digital public spaces. BA: Social Work - Cultural and Social Education MA: Cultural and Critical Studies. 9 to 5 - Program Designer, Researcher 5 to 9 - Learning Code & Digital Ethics - Writer & Host
+Humane/Ethical Technologist in Training. Focused on creating healthy digital public spaces. BA: Social Work - Cultural and Social Education MA: Cultural and Critical Studies. 9 to 5 - Program Designer, Researcher 5 to 9 - Learning Code & Digital Ethics - Writer & Host
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [monzeemay@gmail.com](mailto:monzeemay@gmail.com)
