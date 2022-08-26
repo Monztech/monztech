@@ -8,7 +8,6 @@ Humane/Ethical Technologist in Training.
 ◾️ 5 to 9 - Code and Digital Ethics Learner
 
 ---------------------------------------------------------------------------------------------------------------------------
-
 ◽️ Freelance
 Writer, Speaker & Host on Blackness, Queerness and Neurodiversity 
 
