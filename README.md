@@ -19,7 +19,7 @@ MA: Cultural and Critical Studies
 
 ---------------------------------------------------------------------------------------------------------------------------
 * 🌍  I'm based in London
-* ✉️  You can contact me at [monzeemay@gmail.com](mailto:monzeemay@gmail.com)
+* ✉️  You can contact me at [monzeemay@gmail.com](mailto:monzeemay@gmail.com) <a href="https://www.linkedin.com/in/zeemonteiro"
 * 🧠  I'm learning Python, UX , Ethereum
 * ⚡  www.AlignedPurpose.co
 
