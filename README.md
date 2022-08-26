@@ -6,10 +6,11 @@ Ethical designer in training
 
 Humane/Ethical Technologist in Training.
 Focused on creating healthy digital public spaces. 
-7+ years experiences project management, Research, community organizing, ditigal and in-person program designing.
-9 to 5 - Program Designer, Researcher
+7+ years experiences Project management, Research, Community organizing, Ditigal + In-person program designing.
+9 to 5 - Program Designer, Researcher @ non-profit organisation
 5 to 9 - Code and Digital Ethics Learner
 Freelance Writer, Speaker & Host on LGBTQ+ and Neurodiversity inclusion
+
 
 BA: Social Work - Cultural and Social Education 
 MA: Cultural and Critical Studies
@@ -24,7 +25,6 @@ MA: Cultural and Critical Studies
 
 <p align="left">
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
 
 ### Socials
