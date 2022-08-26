@@ -1,17 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zee
 ===========================================================================================================================
 
-Ethical designer in training
-----------------------------
-
 Humane/Ethical Technologist in Training. 
+---------------------------------------------------------------------------------------------------------------------------
+7+ years experience:  Project Management, Learning & Development, Research, Community organizing, Digital + In-person Program Designing.
 
-7+ years experience:  Project management, Learning & Development, Research, Community organizing, Digital + In-person program designing.
----------------------------------------------------------------
-9 to 5 - Program Designer, Researcher @ non-profit organisation
-------------------------------------------------------------
+◾️ 9 to 5 - Program Designer, Researcher @ non-profit organisation
+
 5 to 9 - Code and Digital Ethics Learner
----------------------------------------
+
 Freelance Writer, Speaker & Host on LGBTQ+ and Neurodiversity inclusion
 
 
