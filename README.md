@@ -1,4 +1,4 @@
-Heya Folks, Zee here
+Heya Folks, it's Zee
 ===========================================================================================================================
 
 Humane/Ethical Technologist in Training. 
