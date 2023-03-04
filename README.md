@@ -1,7 +1,7 @@
 Heya Folks, it's Zee
 ===========================================================================================================================
 
-Humane/Ethical Technologist in Training. 
+Cloud engineer in Training - AWS Restart 
 ---------------------------------------------------------------------------------------------------------------------------
 ◾️ 7+ years experience:  Project Management, Learning & Development, Research, Community organizing, Digital + In-person Program Designing.
 
@@ -9,7 +9,7 @@ Humane/Ethical Technologist in Training.
 ◾️ 9 to 5 - Program Designer, Researcher @ non-profit organisation
 
 
-◾️ 5 to 9 - Code and Digital Ethics Learner
+◾️ 5 to 9 - Code and AWS in Training
 
 ---------------------------------------------------------------------------------------------------------------------------
 ◽️ Freelance
@@ -23,7 +23,7 @@ MA: Cultural and Critical Studies
 ---------------------------------------------------------------------------------------------------------------------------
 * 🌍  I'm based in London
 * ✉️  You can contact me at  [linkedIn](https://www.linkedin.com/in/zeemonteiro)
-* 🧠  I'm learning Python, UX , Ethereum
+* 🧠  I'm learning Python, Linux , AWS
 * ⚡  www.AlignedPurpose.co
 
 ### Skills
